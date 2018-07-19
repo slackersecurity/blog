@@ -12,7 +12,7 @@
   .c     { color: #43894f; font-style: italic } // Comment
   .c1    { color: #43894f } 
   .err   { color: #151515; background-color: #e3d2d2 } // Error
-  .k     { color: #0000bc; font-weight: bold } // Keyword
+  .k     { color: #0073bc; font-weight: bold } // Keyword
   .o     { color: #f4bf75; font-weight: bold } // Operator
   .cm    { color: #888; font-style: italic } // Comment.Multiline
   .cp    { color: #f4bf75; font-weight: bold } // Comment.Preproc
@@ -50,21 +50,21 @@
   .nv    { color: #f4bf75 } // Name.Variable
   .ow    { color: #f4bf75; font-weight: bold } // Operator.Word
   .w     { color: #d0d0d0 } // Text.Whitespace
-  .mf    { color: #eda200 } // Literal.Number.Float
-  .mh    { color: #eda200 } // Literal.Number.Hex
-  .mi    { color: #eda200 } // Literal.Number.Integer
-  .mo    { color: #eda200 } // Literal.Number.Oct
-  .sb    { color: #eda200 } // Literal.String.Backtick
-  .sc    { color: #eda200 } // Literal.String.Char
-  .sd    { color: #eda200 } // Literal.String.Doc
-  .s2    { color: #eda200 } // Literal.String.Double
-  .se    { color: #eda200 } // Literal.String.Escape
-  .sh    { color: #eda200 } // Literal.String.Heredoc
-  .si    { color: #eda200 } // Literal.String.Interpol
-  .sx    { color: #eda200 } // Literal.String.Other
+  .mf    { color: #b27f39 } // Literal.Number.Float
+  .mh    { color: #b27f39 } // Literal.Number.Hex
+  .mi    { color: #b27f39 } // Literal.Number.Integer
+  .mo    { color: #b27f39 } // Literal.Number.Oct
+  .sb    { color: #b27f39 } // Literal.String.Backtick
+  .sc    { color: #b27f39 } // Literal.String.Char
+  .sd    { color: #b27f39 } // Literal.String.Doc
+  .s2    { color: #b27f39 } // Literal.String.Double
+  .se    { color: #b27f39 } // Literal.String.Escape
+  .sh    { color: #b27f39 } // Literal.String.Heredoc
+  .si    { color: #b27f39 } // Literal.String.Interpol
+  .sx    { color: #b27f39 } // Literal.String.Other
   .sr    { color: #75b5aa } // Literal.String.Regex
-  .s1    { color: #eda200 } // Literal.String.Single
-  .ss    { color: #eda200 } // Literal.String.Symbol
+  .s1    { color: #b27f39 } // Literal.String.Single
+  .ss    { color: #b27f39 } // Literal.String.Symbol
   .bp    { color: #999 } // Name.Builtin.Pseudo
   .vc    { color: #099 } // Name.Variable.Class
   .vg    { color: #099 } // Name.Variable.Global
