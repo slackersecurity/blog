@@ -12,7 +12,7 @@
   .c     { color: #43894f; font-style: italic } // Comment
   .c1    { color: #43894f } 
   .err   { color: #151515; background-color: #e3d2d2 } // Error
-  .k     { color: #0086B3; font-weight: bold } // Keyword
+  .k     { color: #0000bc; font-weight: bold } // Keyword
   .o     { color: #f4bf75; font-weight: bold } // Operator
   .cm    { color: #888; font-style: italic } // Comment.Multiline
   .cp    { color: #f4bf75; font-weight: bold } // Comment.Preproc
@@ -39,7 +39,7 @@
   .s     { color: #ce8c21 } // Literal.String
   .s1    { color: #ce8c21 } // 
   .na    { color: #6a9fb5 } // Name.Attribute
-  .nb    { color: #0086B3 } // Name.Builtin
+  .nb    { color: #1cf } // Name.Builtin
   .nc    { color: #259; font-weight: bold } // Name.Class
   .no    { color: #008080 } // Name.Constant
   .ni    { color: #800080 } // Name.Entity
@@ -50,21 +50,21 @@
   .nv    { color: #f4bf75 } // Name.Variable
   .ow    { color: #f4bf75; font-weight: bold } // Operator.Word
   .w     { color: #d0d0d0 } // Text.Whitespace
-  .mf    { color: #90a959 } // Literal.Number.Float
-  .mh    { color: #90a959 } // Literal.Number.Hex
-  .mi    { color: #90a959 } // Literal.Number.Integer
-  .mo    { color: #90a959 } // Literal.Number.Oct
-  .sb    { color: #90a959 } // Literal.String.Backtick
-  .sc    { color: #90a959 } // Literal.String.Char
-  .sd    { color: #90a959 } // Literal.String.Doc
-  .s2    { color: #90a959 } // Literal.String.Double
-  .se    { color: #90a959 } // Literal.String.Escape
-  .sh    { color: #90a959 } // Literal.String.Heredoc
-  .si    { color: #90a959 } // Literal.String.Interpol
-  .sx    { color: #90a959 } // Literal.String.Other
+  .mf    { color: #eda200 } // Literal.Number.Float
+  .mh    { color: #eda200 } // Literal.Number.Hex
+  .mi    { color: #eda200 } // Literal.Number.Integer
+  .mo    { color: #eda200 } // Literal.Number.Oct
+  .sb    { color: #eda200 } // Literal.String.Backtick
+  .sc    { color: #eda200 } // Literal.String.Char
+  .sd    { color: #eda200 } // Literal.String.Doc
+  .s2    { color: #eda200 } // Literal.String.Double
+  .se    { color: #eda200 } // Literal.String.Escape
+  .sh    { color: #eda200 } // Literal.String.Heredoc
+  .si    { color: #eda200 } // Literal.String.Interpol
+  .sx    { color: #eda200 } // Literal.String.Other
   .sr    { color: #75b5aa } // Literal.String.Regex
-  .s1    { color: #90a959 } // Literal.String.Single
-  .ss    { color: #90a959 } // Literal.String.Symbol
+  .s1    { color: #eda200 } // Literal.String.Single
+  .ss    { color: #eda200 } // Literal.String.Symbol
   .bp    { color: #999 } // Name.Builtin.Pseudo
   .vc    { color: #099 } // Name.Variable.Class
   .vg    { color: #099 } // Name.Variable.Global
