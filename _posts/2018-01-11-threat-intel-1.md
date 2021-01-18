@@ -53,6 +53,5 @@ Below is by no means an exaustive list, but it's a good starting point. Now, let
 - [List of ISACS](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center)
 
 Most of these sources can be automated to be pulled into your SIEM or one of the platforms mentioned above.
-With that said, some coding/scripting can go a long way to pull all the data together and some sources require manual analysis.
---
+With that said, some coding/scripting can go a long way to pull all the data together and some sources require manual analysis.   
 **Keep fighting the good fight! @midnightslacker**
