@@ -19,43 +19,38 @@ Below is by no means an exaustive list, but it's a good starting point. Now, let
 
 ## Gathering Data
 ### Tools
-Intelmq - Great framework for processing data feeds
-MISP - Open Source platform to store and share IOCs
+- [Intelmq](https://github.com/certtools/intelmq) - Great framework for processing data feeds
+- [MISP](http://www.misp-project.org/) - Open Source platform to store and share IOCs
 
 ### Open Threat Exchanges
-Alien Vault Open Threat Exchange (OTX)
-Facebook Threat Exchange
-IBM X-force
-Threat Connect
+- [Alien Vault Open Threat Exchange (OTX)](https://otx.alienvault.com/)
+- [Facebook Threat Exchange](https://developers.facebook.com/products/threat-exchange)
+- [IBM X-force](https://exchange.xforce.ibmcloud.com/)
+- [Threat Connect](https://app.threatconnect.com/auth/index.xhtml)
 
 ### API Integrations
-Virus Total - Number one place to see if a file is malicious
-Threat Crowd - A search engine for threats
-Threat Miner - Data Mining for Threat Intelligence
+- [Virus Total](https://www.virustotal.com/en/documentation/public-api/) - Number one place to see if a file is malicious
+- [Threat Crowd](https://threatcrowd.blogspot.co.uk/2016/02/crowdsourced-feeds-from-threatcrowd.html) - A search engine for threats
+- [Threat Miner](https://www.threatminer.org/) - Data Mining for Threat Intelligence
 
 ### Feeds / Trackers
-Ransomeware Tracker
-OpenBL
-NoThink
-SANS DShield
-CI Army
-TALOS
+- [Abuse.ch](https://abuse.ch/)
+- [NoThink](http://www.nothink.org/)
+- [SANS DShield](https://isc.sans.edu/api/)
+- [CI Army](http://cinsscore.com/list/ci-badguys.txt)
+- [APT Notes](https://github.com/aptnotes/data)
 
 ### Blogs
-Malware don't need Coffee
-Malware Traffic Analysis
-Slacker Threat Intel Dashboard - My dashboard of blog feeds
-Automating OSINT - Advanced OSINT collection
+- [Malware don't need Coffee](https://malware.dontneedcoffee.com/blog/)
+- [Malware Traffic Analysis](https://www.malware-traffic-analysis.net/index.html)
+- [Slacker Threat Intel Dashboard - My dashboard of blog feeds](https://www.netvibes.com/midnightslacker#Threat_Intel)
+- [Automating OSINT - Advanced OSINT collection](http://www.automatingosint.com/blog/)
 
 ### US Government Threat Sharing
-US CERT
-Infragard
-DHS
-List of ISACS
-
-### Threat Reports
-APT Notes - White papers and Threat Reports on APT campaigns
-APT Notes Feed - Automated feed for APT Notes
+- [US CERT](https://www.us-cert.gov/ncas)
+- [Infragard](https://www.infragard.org/)
+- [DHS](https://www.dhs.gov/ciscp)
+- [List of ISACS](https://en.wikipedia.org/wiki/Information_Sharing_and_Analysis_Center)
 
 Most of these sources can be automated to be pulled into your SIEM or one of the platforms mentioned above.
 With that said, some coding/scripting can go a long way to pull all the data together and some sources require manual analysis.
